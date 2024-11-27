@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1729605876 source:c:\prog\vector3\fanc.cpp
+	"Heder.h"
+
+1729605710 c:\prog\vector3\heder.h
+	<iostream>
+	<vector>
+
+1729596198 source:c:\prog\vector3\main.cpp
+	"Heder.h"
+
